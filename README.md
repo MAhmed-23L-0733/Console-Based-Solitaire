@@ -11,5 +11,5 @@ s (draw card)
 z (undo)
 
 so these are all the comamnds that i added there is a zip file simply downlaod the zip file and extract
-run the main file names as 3G-23L_0733-A1
+,run the main file named as 3G-23L_0733-A1
 And you are all set.
