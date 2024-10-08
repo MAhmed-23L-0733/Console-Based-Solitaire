@@ -1,6 +1,6 @@
 # Console-Based-Solitaire
 So i made a console based solitaire but it has some rules , i would not say them rules but it has some of the things that i added by myself which are not a part of the real solitaire. It altho works completely like a normal solitaire. Once i explain everything then it will be more easy to understand what i mean.
-So first of all it ahs easy mode and hard mode choice and basically in easy mode you can place same colour cards on top of each other and can undo upto 10 times in an row. While in hard mode you can only place alternative colour cards on top of each other and you can only undo 5 times.
+So first of all it has easy mode and hard mode choice and basically in easy mode you can place same colour cards on top of each other and can undo upto 10 times in an row. While in hard mode you can only place alternative colour cards on top of each other and you can only undo 5 times.
 
 To move the card from one columns to another you use the command:- eg. m c7 c6 1
 where m is the move command c7 is the source c6 is the destination and 1 is the number of cards you want to move.
